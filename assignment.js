@@ -67,7 +67,7 @@ function picnicBudget(person) {
     return totalPrice;
   }
 }
-console.log(picnicBudget(220));
+//console.log(picnicBudget(220));
 
 //problem 4 oddFriend
 function oddFriend(friendsList) {
